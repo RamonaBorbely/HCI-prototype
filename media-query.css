@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    .welcome-screen {
+        width: 90%;
+        padding: 1rem;
+    }
+
+    .payment-icons {
+        font-size: 4rem;
+    }
+
+    .btn {
+        font-size: 0.9rem;
+        padding: 0.4rem 0.8rem;
+    }
+}
